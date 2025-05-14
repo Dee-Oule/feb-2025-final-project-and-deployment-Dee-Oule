@@ -1,0 +1,29 @@
+/* Banner Section */
+.banner {
+    background-image: url('../images/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+
+/* Blog Post Thumbnails */
+.blog-post img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Author Section */
+.author {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.author img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
